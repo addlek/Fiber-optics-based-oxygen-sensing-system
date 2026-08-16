@@ -1,5 +1,4 @@
 # Fiber-optics-based-oxygen-sensing-system
-<img width="1092" height="621" alt="Fiber Optics O2 sensor" src="https://github.com/user-attachments/assets/8fc82a26-e4c9-403b-b8f5-298ae615444b" />
 ## Project Overview
 This repository contains a Python-based application designed to interface with a fiber-optic oxygen sensing system. It processes optical signal data to measure and log oxygen concentration levels.
 
